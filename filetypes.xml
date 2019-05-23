@@ -1,0 +1,16 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <ignoreFiles list="*.hprof;*.idea;*.iml;*.pyc;*.pyo;*.rbc;*.yarb;*~;.DS_Store;.git;.hg;.svn;CVS;__pycache__;_svn;vssver.scc;vssver2.scc;" />
+    <extensionMap>
+      <mapping pattern="properties" type="PLAIN_TEXT" />
+      <mapping pattern="db.properties" type="PLAIN_TEXT" />
+      <mapping pattern="log4j" type="Properties" />
+      <mapping pattern="db" type="Properties" />
+      <mapping pattern="p" type="Properties" />
+      <mapping pattern="connProperty" type="Properties" />
+      <mapping pattern="productProperty" type="Properties" />
+      <mapping pattern="efe" type="XML" />
+      <mapping ext="xm;" type="XML" />
+    </extensionMap>
+  </component>
+</application>
