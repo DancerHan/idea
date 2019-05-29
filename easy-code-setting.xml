@@ -138,10 +138,6 @@
                     <option name="javaType" value="java.lang.Double" />
                   </TypeMapper>
                   <TypeMapper>
-                    <option name="columnType" value="tinyint(\(\d+\))?" />
-                    <option name="javaType" value="java.lang.Object" />
-                  </TypeMapper>
-                  <TypeMapper>
                     <option name="columnType" value="bit" />
                     <option name="javaType" value="java.lang.Boolean" />
                   </TypeMapper>
