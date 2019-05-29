@@ -138,7 +138,7 @@
                     <option name="javaType" value="java.lang.Double" />
                   </TypeMapper>
                   <TypeMapper>
-                    <option name="columnType" value="bit" />
+                    <option name="columnType" value="bit(\(\d+\))?" />
                     <option name="javaType" value="java.lang.Boolean" />
                   </TypeMapper>
                 </list>
