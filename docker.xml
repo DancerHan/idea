@@ -1,6 +1,6 @@
 <application>
   <component name="DockerSettings">
     <option name="dockerComposePath" value="docker-compose" />
-    <option name="dockerMachinePath" value="D:\docker\docker.exe" />
+    <option name="dockerMachinePath" value="D:\docker\dockerd.exe" />
   </component>
 </application>
